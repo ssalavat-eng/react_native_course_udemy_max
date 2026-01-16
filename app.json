@@ -1,13 +1,12 @@
 {
   "expo": {
-    "name": "RNCourse",
-    "slug": "RNCourse",
+    "name": "RNCoursePart2",
+    "slug": "RNCoursePart2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-    "backgroundColor": "#1e085a",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
