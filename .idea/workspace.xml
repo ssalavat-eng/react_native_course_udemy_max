@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="346ca968-cc8e-425d-9e77-8bcb9c2f1be7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/PrimaryButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/GameOver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/GameScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/StartGameScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/PrimaryButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/PrimaryButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +20,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PackageJsonUpdateNotifier">
-    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -48,7 +42,7 @@
     "git-widget-placeholder": "real-apps",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "D:/projects/RNCourse",
+    "last_opened_file_path": "/home/salavat/projects/RNCourse",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
@@ -74,6 +68,8 @@
       <workItem from="1768405383755" duration="7242000" />
       <workItem from="1768553759170" duration="2116000" />
       <workItem from="1768556111272" duration="2527000" />
+      <workItem from="1768636020557" duration="1542000" />
+      <workItem from="1768637777378" duration="878000" />
     </task>
     <servers />
   </component>
